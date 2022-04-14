@@ -6,6 +6,7 @@
 
 header{
     width:100%; 
+    text-align: center;
     height:100vh;
     background-color: rgba(140, 102, 176, 0.584);
 }
